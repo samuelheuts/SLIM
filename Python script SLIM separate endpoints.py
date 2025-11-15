@@ -1,4 +1,4 @@
-Analysis in Python through Colab
+Analysis of separate endpoints in Python through Colab
 Samuel Heuts
 November 15th, 2025
 
